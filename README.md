@@ -1,6 +1,6 @@
-# 💬 SQL-AGENT: Natural Language to SQL Query Generator
+# 💬 Prompt2Query : Natural Language to SQL Query Generator
 
-> NL2SQL agent — turn natural language prompts into database query results.
+> Prompt2Query — turn natural language prompts into database query results.
 
 ---
 
